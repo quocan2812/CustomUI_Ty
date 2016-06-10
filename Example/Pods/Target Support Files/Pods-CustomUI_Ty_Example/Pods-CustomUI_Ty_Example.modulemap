@@ -1,0 +1,6 @@
+framework module Pods_CustomUI_Ty_Example {
+  umbrella header "Pods-CustomUI_Ty_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

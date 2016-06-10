@@ -1,0 +1,6 @@
+framework module CustomUI_Ty {
+  umbrella header "CustomUI_Ty-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CustomUI_Ty (0.1.0)
+
+DEPENDENCIES:
+  - CustomUI_Ty (from `../`)
+
+EXTERNAL SOURCES:
+  CustomUI_Ty:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CustomUI_Ty: 03413f64521f0912a1510626d473508cf23d8a01
+
+PODFILE CHECKSUM: 990d5b2eba954ab32573a0c56b711a82e1ce0a89
+
+COCOAPODS: 1.0.0
