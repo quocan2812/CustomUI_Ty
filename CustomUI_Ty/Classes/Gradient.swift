@@ -8,6 +8,8 @@
 
 import UIKit
 
+//update version 0.1.1
+
 class Gradient: NSObject {
 
 }
