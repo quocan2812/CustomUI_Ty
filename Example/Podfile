@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CustomUI_Ty_Example' do
+  pod 'CustomUI_Ty', :path => '../'
+
+  target 'CustomUI_Ty_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
